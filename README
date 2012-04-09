@@ -1,0 +1,18 @@
+
+1. Solarize your terminal
+    
+   a. MacOS X iTerm2 
+   https://github.com/altercation/solarized/tree/master/iterm2-colors-solarized
+
+   b. Gnome Terminal 
+   https://github.com/sigurdga/gnome-terminal-colors-solarized
+
+2. Download VIM solarized color scheme 
+   
+   https://github.com/altercation/solarized/tree/master/vim-colors-solarized
+    
+3. Set the correct term for tmux in .bashrc 
+
+   alias tmux="TERM=screen-256color-bce tmux"
+
+     

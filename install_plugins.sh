@@ -6,5 +6,5 @@ cd bundle
 git clone git://github.com/tpope/vim-endwise.git 
 git clone git://github.com/jiangmiao/auto-pairs.git 
 git clone git://github.com/scrooloose/nerdtree.git 
-
+git clone git://github.com/msanders/snipmate.vim.git 
 

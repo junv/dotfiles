@@ -1,3 +1,6 @@
+call pathogen#infect()
+call pathogen#helptags()
+
 set nocompatible                  " No vi defaults, use vim 
 syntax enable                     " Turn on syntax highlighting 
 set vb                            " no visual bell 
